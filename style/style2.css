@@ -120,7 +120,7 @@ a:focus {
 }
 
 
-blockquote {
+.myBlockQuote {
     font-family: Georgia, serif;
     font-size: 18px;
     font-style: italic;
@@ -132,7 +132,7 @@ blockquote {
     color: #383838;
 }
 
-blockquote:before {
+.myBlockQuote:before {
     display: block;
     padding-left: 10px;
     content: "\201C";
@@ -143,13 +143,13 @@ blockquote:before {
     color: #7a7a7a;
 }
 
-blockquote cite {
+.myBlockQuote cite {
     color: #999999;
     font-size: 14px;
     display: block;
     margin-top: 5px;
 }
 
-blockquote cite:before {
+.myBlockQuote cite:before {
     content: "\2014 \2009";
 }

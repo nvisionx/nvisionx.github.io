@@ -12,7 +12,7 @@ include 'header.php';
 
 
 
-<div class="container-fluid" style="margin-top: 60px;">
+<div class="container-fluid" style="margin-top: 60px; padding-left:0px; padding-right:0px">
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel" >
   <!-- Indicators -->
@@ -58,8 +58,8 @@ include 'header.php';
 <div>
 <div class="row">
 <div class="col-sm-12">
-    <blockquote style="font-family: Georgia, serif;
-    position: relative;
+    <blockquote class="myBlockQuote" style="font-family: Georgia, serif;
+    position: relative; text-align: justify;
     padding: 0.5em 2em 0.5em 3em;">
         Health is a state of complete physical, mental, and social well being, and not merely the absence of disease or infirmity. Health is a dynamic condition resulting from a body’s constant adjustment and adaptation in response to stresses and changes in the environment for maintaining an inner equilibrium called homeostasis.
     <footer>
@@ -68,12 +68,16 @@ include 'header.php';
     </blockquote>
     </div>
 </div>
+<br>
 <div class="row">
     <div class="col-sm-6">
+    <p style="text-align: center"><u><em><strong>Organizational Focus</strong></em></u></p>
     <p style="font-size: 18px; padding-top:10px; font-family: Georgia, serif; text-align: justify;" >
 We, at Arist Healthcare, focus on promoting well-being which involves prevention of diseases and improve health of the individual and that of the community.  People, in their busy schedule, often do not heed to their health. Hence, we aim to aid the people lead a healthy lifestyle and make the world a better place.</p>
     </div>
     <div class="col-sm-6">
+    <p style="text-align: center"><u><em><strong>Product Focus</strong></em></u></p>
+
     <p style="font-size: 18px; padding-top:10px; font-family: Georgia, serif; text-align: justify;">Our products are focussed on Cardiovascular Disease (CVD), Diabetes Mellitus (commonly referred to as Diabetes), and also general health.
 We manufature products of the highest quality and are made available to the public at a cost effective price.</p>
     </div>
