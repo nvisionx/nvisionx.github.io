@@ -13,17 +13,34 @@ include 'header.php';
 
 
 <div class="container" style="margin-top: 180px;">
-Што е Lorem Ipsum?
-Lorem Ipsum е едноставен модел на текст кој се користел во печатарската индустрија. Lorem ipsum бил индустриски стандард кој се користел како модел уште пред 1500 години, кога непознат печатар зел кутија со букви и ги сложил на таков начин за да направи примерок на книга. И не само што овој модел опстанал пет векови туку почнал да се користи и во електронските медиуми, кој се уште не е променет. Се популаризирал во 60-тите години на дваесеттиот век со издавањето на збирка од страни во кои се наоѓале Lorem Ipsum пасуси, а денес во софтверскиот пакет како што е Aldus PageMaker во кој се наоѓа верзија на Lorem Ipsum.
+<!-- <p>Health is a state of complete physical, mental, and social well being, and not merely the absence of disease or infirmity. Health is a dynamic condition resulting from a body’s constant adjustment and adaptation in response to stresses and changes in the environment for maintaining an inner equilibrium called homeostasis.</p>
 
-За што би го користеле?
-Познат е фактот дека вниманието на читателот ќе биде привлечено од содржината на страната која ја гледа. Поентата за користење на Lorem Ipsum е во тоа што распоредот на зборовите е речиси нормален како во обичен текст, на пример, наместо да се пишува �тука ќе има текст, тука ќе има текст� пригодно е да се вметне "Lorem Ipsum" текст. На ваков начин се добива еден вид на читлив текст. Многу софтверски пакети за печатење како и веб уредувачи го користат како основен модел на текст токму моделот на "Lorem ipsum", и доколку се изврши пребарување на интернет со "lorem ipsum" како како клучни зборови резултатот ќе врати многу веб сајтови кои се на некој начин во финална изработка. Во текот на годините се развивале различни верзии, некогаш како случајност, а некогаш со одредена цел.
+<p><em><strong>-World Health Organization (WHO)</strong></em></p> -->
 
+<div class="row">
+	
+<div class="col-sm-6">
+    <blockquote style="font-family: Georgia, serif;
+    position: relative;
+    margin: 0.5em;
+    padding: 0.5em 2em 0.5em 3em;">
+        Health is a state of complete physical, mental, and social well being, and not merely the absence of disease or infirmity. Health is a dynamic condition resulting from a body’s constant adjustment and adaptation in response to stresses and changes in the environment for maintaining an inner equilibrium called homeostasis.
+    <footer>
+            World Health Organization (WHO)
+    </footer>
+    </blockquote>
+</div>
+<div class="col-sm-6">
+	<!-- <img src="carousel_images/1.jpg" alt=""> -->
+</div>
+</div>
 
-Од каде доаѓа?
-Lorem Ipsum не е случајно избран и сложен текст, спротивно од верувањата. Неговите корени потекнуваат во дела на класичната Латинска книжевност од 45-та година пред новата ера, што го прави стар преку 2000 години. Richard McClintock, професор по Латински на колеџот Hampden-Sydney во Вирџинија побарал дефиниција за малку чудните зборови "consectetur" од пасусите на Lorem Ipsum и додека ги анализирал деловите во класичната книжевност открил автентичен извор. Lorem Ipsum доаѓа од поглавијата 1.10.32 и 1.10.33 од книгата "de Finibus Bonorum et Malorum" (Крајностите на доброто и злото) кои ги напишал Cicerо во 45-та година пред новата ера. Книгата говори за теоријата на етиката, која била многу популарна во текот на ренесансата. Првата реченица на Lorem Ipsum моделот "Lorem ipsum dolor sit amet..", доаѓа од реченицата во поглавјето 1.10.32.
+<p style="font-size: 20px">
+We, at Arist Healthcare, focus on promoting well-being which involves prevention of diseases and improve health of the individual and that of the community.  People, in their busy schedule, often do not heed to their health. Hence, we aim to aid the people lead a healthy lifestyle and make the world a better place.</p>
 
-Стандардниот дел на Lorem Ipsum кој се користел уште од 1500-та година е репродуциран според одредени потреби. Поглавјето 1.10.32 и 1.10.33 од книгата "de Finibus Bonorum et Malorum" која ја напишал Cicerо се исто така преработени во оригиналната форма заедно со англиската верзија на H. Rackham од 1914 година.
+<p style="font-size: 20px">Our products are focussed on Cardiovascular Disease (CVD), Diabetes Mellitus (commonly referred to as Diabetes), and also general health.
+We manufature products of the highest quality and are made available to the public at a cost effective price.</p>
+
 </div>
 
 

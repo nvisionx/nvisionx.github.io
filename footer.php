@@ -7,7 +7,7 @@
               <div class="widget">
                 <h5>About ARIST HEALTHCARE</h5>
                 <p>
-                  Lorem ipsum dolor sit amet, ne nam purto nihil impetus, an facilisi accommodare sea
+                  A leading healthcare industry that aims to promote good health to the general public.
                 </p>
               </div>
             </div>
@@ -27,16 +27,16 @@
           <div class="col-sm-6 col-md-4">
             <div class="wow fadeInDown animated" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInDown;">
               <div class="widget">
-                <h5>Medicio center</h5>
+                <h5>Our Products</h5>
                 <p>
-                  Nam leo lorem, tincidunt id risus ut, ornare tincidunt naqunc sit amet.
+                  Cardiovascular, Diabetes and general health are our main product focus.
                 </p>
                 <ul>
                   <li>
                     <span class="fa-stack fa-lg">
 									<i class="fa fa-circle fa-stack-2x"></i>
 									<i class="fa fa-calendar-o fa-stack-1x fa-inverse"></i>
-								</span> Monday - Saturday, 8am to 10pm
+								</span> Monday - Saturday, 10am to 7pm
                   </li>
                   <li>
                     <span class="fa-stack fa-lg">
@@ -48,7 +48,7 @@
                     <span class="fa-stack fa-lg">
 									<i class="fa fa-circle fa-stack-2x"></i>
 									<i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
-								</span> aristhealthcare@gmail.com
+								</span> <a href="mailto:aristhealthcare@gmail.com">aristhealthcare@gmail.com</a>
                   </li>
 
                 </ul>

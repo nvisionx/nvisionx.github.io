@@ -7,6 +7,7 @@ include 'header.php';
 <br>
 <br>
 <br>
+<iframe src="#" id="fake-target" name="fake-target" style="width:0px; height:0px; border:0px;"></iframe>
 
 <div class="container">
 	<div class="row">
@@ -76,7 +77,6 @@ include 'header.php';
 </div>
 </div>
 
-<iframe src="#" id="fake-target" name="fake-target" style="width:0px; height:0px; border:0px;"></iframe>
 
   <script type="text/javascript">
    function custommsg() {
