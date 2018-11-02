@@ -16,6 +16,7 @@
   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="style/style1.css">
   <link rel="stylesheet" type="text/css" href="style/style2.css">
+  <link rel="stylesheet" type="text/css" href="style/style3.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
@@ -29,7 +30,7 @@
                     <i class="fa fa-bars"></i>
                 </button>
           <a class="navbar-brand img-responsive" href="index.php">
-                    <img src="images/logo.png" alt="" width="150" height="40" alt="logo">
+                    <img src="images/logo.png" alt="" width="300" height="40" alt="logo">
                 </a>
         </div>
 
