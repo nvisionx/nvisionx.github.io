@@ -10,7 +10,7 @@ include 'header.php';
       <p>Write to Us or Reach Us</p>
       <p><span class="glyphicon glyphicon-map-marker"></span> 45, 4th Cross Rd, Huchappa Layout, Govindaraja Nagar Ward, Madhura Nagar, Kottigepalya, Bengaluru, Karnataka 560091</p>
       <p><span class="glyphicon glyphicon-phone"></span> +91 99028 28564</p>
-      <p><span class="glyphicon glyphicon-envelope"></span> myemail@something.com</p> 
+      <p><span class="glyphicon glyphicon-envelope"></span> aristhealthcare@gmail.com</p> 
     </div>
     <div class="col-sm-7">
     <form  class="ajax" method="post" action="email.php" id="myform">
