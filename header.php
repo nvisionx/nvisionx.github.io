@@ -29,13 +29,13 @@
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
                     <i class="fa fa-bars"></i>
                 </button>
-          <a class="navbar-brand img-responsive" href="index.php">
-                    <img src="images/logo.png" alt="" width="300" height="40" alt="logo">
+          <a class="navbar-brand img-responsive" href="index.php" style="padding-right: 0px; padding-left: 2px; margin-top: 0px;">
+                    <img src="images/logo.png" alt="" width="290" height="40" alt="logo">
                 </a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+        <div class="collapse navbar-collapse navbar-right navbar-main-collapse" style="margin-right: 8px;">
           <ul class="nav navbar-nav">
             <li class="<?php if($page == "index") echo("active") ?>"><a href="index.php">Home</a></li>
             <li class="<?php if($page == "about") echo("active") ?>"><a href="about.php">About Us</a></li>

@@ -71,12 +71,12 @@ include 'header.php';
 <br>
 <div class="row">
     <div class="col-sm-6">
-    <p style="text-align: center"><u><em><strong>Organizational Focus</strong></em></u></p>
+    <p style="text-align: center; font-size: 21px;"><em><strong>Organizational Focus</strong></em></p>
     <p style="font-size: 18px; padding-top:10px; font-family: Georgia, serif; text-align: justify;" >
 We, at Arist Healthcare, focus on promoting well-being which involves prevention of diseases and improve health of the individual and that of the community.  People, in their busy schedule, often do not heed to their health. Hence, we aim to aid the people lead a healthy lifestyle and make the world a better place.</p>
     </div>
     <div class="col-sm-6">
-    <p style="text-align: center"><u><em><strong>Product Focus</strong></em></u></p>
+    <p style="text-align: center; font-size: 21px;  "><em><strong>Product Focus</strong></em></p>
 
     <p style="font-size: 18px; padding-top:10px; font-family: Georgia, serif; text-align: justify;">Our products are focussed on Cardiovascular Disease (CVD), Diabetes Mellitus (commonly referred to as Diabetes), and also general health.
 We manufature products of the highest quality and are made available to the public at a cost effective price.</p>

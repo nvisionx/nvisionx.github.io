@@ -67,9 +67,3 @@ include 'header.php';
 <?php 
 include 'footer.php'; 
 ?>
-
-
-
-<div class="col-md-4 text-center">
-      <span class="glyphicon glyphicon-globe logo" style="font-size:120px;padding-top: 30px;"></span>
-    </div>
