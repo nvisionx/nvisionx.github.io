@@ -30,13 +30,13 @@
 }
 
 .testimonial-quote blockquote p {
-    color: #75808a; 
+    color: black; 
     line-height: 1.5 !important;
 }
 
 .testimonial-quote blockquote p:first-child:before {
     content: '\201C';
-    color: #81bedb;
+    color: purple;
     font-size: 7.5em;
     font-weight: 700;
     opacity: .3;

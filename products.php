@@ -30,7 +30,7 @@ $modalInfo = json_decode($jsonData); // decode the JSON feed
     }
 }
 </style>
-<div class="container" style="margin-top:30px;">
+<div class="container" style="margin-top:30px;color: black;">
   <div class="row flexmb">
     <?php foreach ($modalInfo as $info) : ?>
         <div class="col-lg-3" style="margin-top:30px; display: flex;">

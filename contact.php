@@ -3,7 +3,7 @@ $page = 'contact';
 include 'header.php'; 
 ?>
 
-<div class="container" style="margin-top: 150px;">
+<div class="container" style="margin-top: 150px;color: black;font-family: Georgia, serif;font-size: 18px">
   <h2 class="text-center">CONTACT</h2>
   <div class="row">
     <div class="col-sm-5">

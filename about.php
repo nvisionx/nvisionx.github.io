@@ -12,10 +12,10 @@ include 'header.php';
 
 
 
-<div class="container" style="margin-top: 140px;">
+<div class="container" style="margin-top: 140px;" style="color: black;">
 <div> 
 
-    <h1 class="text-center"> Mission </h1>
+    <h1 class="text-center" style="color: red;"> Mission </h1>
     <div class="testimonial-quote row" style="
     margin-left: 20px;">
         <div class="quote-container col-md-12 text-center">
@@ -27,7 +27,7 @@ include 'header.php';
         
     <hr style="margin: 20px auto; opacity: 0.5;">
   
-    <h1 class="text-center"> Vision </h1>        
+    <h1 class="text-center" style="color: blue;"> Vision </h1>        
     <div class="testimonial-quote group right row" style="
     margin-left: 20px;">
         
@@ -44,8 +44,8 @@ include 'header.php';
 </div>
 <br>
 <hr style="margin: 20px auto; opacity: 0.5;">
-<div class="text-center">
-    <h1 class="text-center" style="margin-bottom: 5px;">Values</h1>
+<div class="text-center" style="color: black;">
+    <h1 class="text-center" style="margin-bottom: 5px;color: purple;">Values</h1>
     <div style="font-family: Georgia, serif; margin:0px;">
 
     <h6 style="margin-bottom: 5px;font-style: italic;">Our Vision and Mission are integrated by core values</h6></div>

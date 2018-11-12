@@ -9,7 +9,7 @@ include 'header.php';
 <br>
 <iframe src="#" id="fake-target" name="fake-target" style="width:0px; height:0px; border:0px;"></iframe>
 
-<div class="container">
+<div class="container" style="color: black; font-family: Cambria">
 	<div class="row">
 		<div class="col-md-8 col-md-offset-2">
 			<h1 class="text-center">Career Form</h1>
