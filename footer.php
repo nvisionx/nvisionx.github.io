@@ -15,11 +15,11 @@
               <div class="widget">
                 <h5>Information</h5>
                 <ul>
-                  <li><a href="index.php">Home</a></li>
-                  <li><a href="about.php">About Us</a></li>
-                  <li><a href="products.php">Products</a></li>
-                  <li><a href="contact.php">Contact US</a></li>
-                  <li><a href="career.php">Career</a></li>
+                  <li><a href="index.html">Home</a></li>
+                  <li><a href="about.html">About Us</a></li>
+                  <li><a href="products.html">Products</a></li>
+                  <li><a href="contact.html">Contact US</a></li>
+                  <li><a href="career.html">Career</a></li>
                 </ul>
               </div>
             </div>

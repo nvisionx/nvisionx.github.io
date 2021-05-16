@@ -29,7 +29,7 @@
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse" style="margin-right: 8px;">
                     <i class="fa fa-bars"></i>
                 </button>
-          <a class="navbar-brand img-responsive" href="index.php" style="padding-right: 0px; padding-left: 2px; margin-top: 0px;">
+          <a class="navbar-brand img-responsive" href="index.html" style="padding-right: 0px; padding-left: 2px; margin-top: 0px;">
                     <img src="images/logo.png" alt="" width="290" height="40" alt="logo">
                 </a>
         </div>
@@ -37,11 +37,11 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
           <ul class="nav navbar-nav">
-            <li class="<?php if($page == "index") echo("active") ?>"><a href="index.php">Home</a></li>
-            <li class="<?php if($page == "about") echo("active") ?>"><a href="about.php">About Us</a></li>
-            <li class="<?php if($page == "product") echo("active") ?>"><a href="products.php">Products</a></li>
-            <li class="<?php if($page == "contact") echo("active") ?>"><a href="contact.php">Contact Us</a></li>
-            <li class="<?php if($page == "career") echo("active") ?>"><a href="career.php">Career</a></li>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="products.html">Products</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+            <li><a href="career.html">Career</a></li>
            <!-- <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="badge custom-badge red pull-right">Extra</span>More <b class="caret"></b></a>
               <ul class="dropdown-menu" style="margin-top: 16px;">
